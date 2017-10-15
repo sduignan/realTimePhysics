@@ -1,5 +1,5 @@
 # realTimePhysics
-Collection of assignment projects for real-time physics module
+Collection of assignment projects for Real-Time Physics module
 
 
 
@@ -64,7 +64,7 @@ External Libraries used:
 
 • Armadillo: A C++ Linear Algebra Library, used here to calculate the square root of a matrix.
 
-• Antons_maths_funcs: a library for vector, matrix and quaternion mathe-matics. However, I have extended this library myself to handle additional mathematical operations such as calculation of the determinant and in-verse of 3x3 matrices, orthonormalisation of 3x3 matrices, and 3x3 matrix by vector multiplication as the original author was primarily focused on 4x4 matrix mathematics.
+• Antons_maths_funcs: a library for vector, matrix and quaternion mathematics. However, I have extended this library myself to handle additional mathematical operations such as calculation of the determinant and in-verse of 3x3 matrices, orthonormalisation of 3x3 matrices, and 3x3 matrix by vector multiplication as the original author was primarily focused on 4x4 matrix mathematics.
 
 • gl_utils: (slightly modiﬁed), a library of common OpenGL functionality.
 
